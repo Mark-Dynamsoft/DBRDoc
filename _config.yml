@@ -1,0 +1,120 @@
+repositoryUrl: https://github.com/dynamsoft-docs/barcode-reader-docs/blob/master
+repositoryUrlJS: https://github.com/dynamsoft-docs/barcode-reader-docs-js/blob/main
+repositoryUrlMobile: https://github.com/dynamsoft-docs/barcode-reader-docs-mobile/blob/main
+repository: dynamsoft-docs/barcode-reader-docs
+docFullPath: https://www.dynamsoft.com/barcode-reader
+firstLevelUrl: /barcode-reader
+docHomePage: /barcode-reader/introduction/
+
+useVersionTree: true
+
+introduction: /barcode-reader/introduction/
+programming: /barcode-reader/programming/
+parameters: /barcode-reader/parameters/
+license_activation: /barcode-reader/license-activation/
+enhancements: /barcode-reader/enhancements/
+release_notes: /barcode-reader/release-notes/
+
+comparison_tools: /barcode-reader/introduction/comparison-tools/
+
+c_cplusplus: /barcode-reader/programming/c-cplusplus/
+structs: /barcode-reader/programming/c-cplusplus/struct/
+
+c: /barcode-reader/programming/c/
+c_api: /barcode-reader/programming/c/api-reference/
+c_methods: /barcode-reader/programming/c/api-reference/methods/
+c_release_notes: /barcode-reader/programming/c/release-notes/
+
+cpp: /barcode-reader/programming/cplusplus/
+cpp_api: /barcode-reader/programming/cplusplus/api-reference/
+cpp_methods: /barcode-reader/programming/cplusplus/api-reference/cbarcodereader-methods/
+cpp_release_notes: /barcode-reader/programming/cplusplus/release-notes/
+
+js: /barcode-reader/programming/javascript/
+js_api: /barcode-reader/programming/javascript/api-reference/
+js_release_notes: /barcode-reader/programming/javascript/release-notes/
+
+dotnet: /barcode-reader/programming/dotnet/
+dotnet_api: /barcode-reader/programming/dotnet/api-reference/
+dotnet_methods: /barcode-reader/programming/dotnet/api-reference/BarcodeReader/
+dotnet_class: /barcode-reader/programming/dotnet/api-reference/class/
+dotnet_release_notes: /barcode-reader/programming/dotnet/release-notes/
+
+oc: /barcode-reader/programming/objectivec-swift/
+oc_api: /barcode-reader/programming/objectivec-swift/api-reference/
+oc_release_notes: /barcode-reader/programming/objectivec-swift/release-notes/
+oc_methods: /barcode-reader/programming/objectivec-swift/api-reference/methods/
+oc_class: /barcode-reader/programming/objectivec-swift/api-reference/class/
+oc_methods: /barcode-reader/programming/objectivec-swift/api-reference/methods/
+
+java: /barcode-reader/programming/java/
+java_api: /barcode-reader/programming/java/api-reference/
+java_methods: /barcode-reader/programming/java/api-reference/BarcodeReader/
+java_class: /barcode-reader/programming/java/api-reference/class/
+java_release_notes: /barcode-reader/programming/java/release-notes/
+
+android: /barcode-reader/programming/android/
+android_api: /barcode-reader/programming/android/api-reference/
+android_release_notes: /barcode-reader/programming/android/release-notes/
+android_class: /barcode-reader/programming/android/api-reference/class/
+android_methods: /barcode-reader/programming/android/api-reference/BarcodeReader/
+  
+python: /barcode-reader/programming/python/
+python_api: /barcode-reader/programming/python/api-reference/
+python_methods: /barcode-reader/programming/python/api-reference/BarcodeReader/
+python_class: /barcode-reader/programming/python/api-reference/class/
+python_release_notes: /barcode-reader/programming/python/release-notes/
+
+parameters_reference: /barcode-reader/parameters/reference/
+image_parameters: /barcode-reader/parameters/reference/image-parameter/
+scenario_settings: /barcode-reader/parameters/scenario-settings/
+enumerations: /barcode-reader/parameters/enum/
+
+faqs: /barcode-reader/introduction/faqs.html
+how_to: /barcode-reader/introduction/how-to-guide/
+
+assets: /barcode-reader/assets/
+edit_icon: /barcode-reader/assets/img-icon/edit-icon.png
+smile_icon: /barcode-reader/assets/img-icon/icon-smile.png
+sad_icon: /barcode-reader/assets/img-icon/icon-sad.png
+dbr_icon: /barcode-reader/assets/img-icon/icon-dbr.svg
+dwt_icon: /barcode-reader/assets/img-icon/icon-dwt.svg
+dnt_icon: /barcode-reader/assets/img-icon/icon-dnt.svg
+
+camera: /camera-enhancer/docs/introduction/
+
+baseurl: "/barcode-reader"
+plugins:
+  - jemoji
+  - jekyll-sitemap
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      category: "original-repo"
+  - scope:
+      path: "programming/javascript"
+    values:
+      category: "js-repo"
+  - scope:
+      path: "programming/android"
+    values:
+      category: "mobile-repo"
+  - scope:
+      path: "programming/objectivec-swift"
+    values:
+      category: "mobile-repo"
+  - scope:
+      path: ""
+    values:
+      layout: "default-layout"
+      noTitleIndex: true
+      needAutoGenerateSidebar: true
+      needGenerateH3Content: true
+  - scope:
+      path: "Hide_Tree_Page.html"
+    values:
+      sitemap: false
+
+url: "https://www.dynamsoft.com" # sitemap root
