@@ -20,13 +20,7 @@
             {% endif %}
         {% endcapture %}
         {%- if page.category -%}
-            {%- if page.category == 'js-repo' -%}
-                <a href="{{ site.repositoryUrlJS }}{{ sourceCodeUrl | strip }}" class="editLinkColour"><img src="{{ site.assets }}/img-icon/Edit-pencil-write-2.svg" width="30px" height="30px" style="vertical-align: middle;" /></a>
-            {%- elsif page.category == 'mobile-repo' -%}
-                <a href="{{ site.repositoryUrlMobile }}{{ sourceCodeUrl | strip }}" class="editLinkColour"><img src="{{ site.assets }}/img-icon/Edit-pencil-write-2.svg" width="30px" height="30px" style="vertical-align: middle;" /></a>
-            {%- else -%}
-                <a href="{{ site.repositoryUrl }}{{ sourceCodeUrl | strip }}" class="editLinkColour"><img src="{{ site.assets }}/img-icon/Edit-pencil-write-2.svg" width="30px" height="30px" style="vertical-align: middle;" /></a>
-            {%- endif -%}
+            <a href="{{ site.repositoryUrl }}{{ sourceCodeUrl | strip }}" class="editLinkColour"><img src="{{ site.assets }}/img-icon/Edit-pencil-write-2.svg" width="30px" height="30px" style="vertical-align: middle;" /></a>
         {%- else -%}
             <a href="{{ site.repositoryUrl }}{{ sourceCodeUrl | strip }}" class="editLinkColour"><img src="{{ site.assets }}/img-icon/Edit-pencil-write-2.svg" width="30px" height="30px" style="vertical-align: middle;" /></a>
         {%- endif -%}
