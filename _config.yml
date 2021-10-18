@@ -1,82 +1,83 @@
 repositoryUrl: https://github.com/Mark-Dynamsoft/DBRDoc/blob/master
 repository: Mark-Dynamsoft/DBRDoc
-docFullPath: https://mark-dynamsoft.github.io
-docHomePage: /introduction/
+docFullPath: https://mark-dynamsoft.github.io/DBRDoc
+firstLevelUrl: /DBRDoc
+docHomePage: /DBRDoc/introduction/
 
 useVersionTree: true
 
-introduction: /introduction/
-programming: /programming/
-parameters: /parameters/
-license_activation: /license-activation/
-enhancements: /enhancements/
-release_notes: /release-notes/
+introduction: /DBRDoc/introduction/
+programming: /DBRDoc/programming/
+parameters: /DBRDoc/parameters/
+license_activation: /DBRDoc/license-activation/
+enhancements: /DBRDoc/enhancements/
+release_notes: /DBRDoc/release-notes/
 
-comparison_tools: /introduction/comparison-tools/
+comparison_tools: /DBRDoc/introduction/comparison-tools/
 
-c_cplusplus: /programming/c-cplusplus/
-structs: /programming/c-cplusplus/struct/
+c_cplusplus: /DBRDoc/programming/c-cplusplus/
+structs: /DBRDoc/programming/c-cplusplus/struct/
 
-c: /programming/c/
-c_api: /programming/c/api-reference/
-c_methods: /programming/c/api-reference/methods/
-c_release_notes: /programming/c/release-notes/
+c: /DBRDoc/programming/c/
+c_api: /DBRDoc/programming/c/api-reference/
+c_methods: /DBRDoc/programming/c/api-reference/methods/
+c_release_notes: /DBRDoc/programming/c/release-notes/
 
-cpp: /programming/cplusplus/
-cpp_api: /programming/cplusplus/api-reference/
-cpp_methods: /programming/cplusplus/api-reference/cbarcodereader-methods/
-cpp_release_notes: /programming/cplusplus/release-notes/
+cpp: /DBRDoc/programming/cplusplus/
+cpp_api: /DBRDoc/programming/cplusplus/api-reference/
+cpp_methods: /DBRDoc/programming/cplusplus/api-reference/cbarcodereader-methods/
+cpp_release_notes: /DBRDoc/programming/cplusplus/release-notes/
 
-js: /programming/javascript/
-js_api: /programming/javascript/api-reference/
-js_release_notes: /programming/javascript/release-notes/
+js: /DBRDoc/programming/javascript/
+js_api: /DBRDoc/programming/javascript/api-reference/
+js_release_notes: /DBRDoc/programming/javascript/release-notes/
 
-dotnet: /programming/dotnet/
-dotnet_api: /programming/dotnet/api-reference/
-dotnet_methods: /programming/dotnet/api-reference/BarcodeReader/
-dotnet_class: /programming/dotnet/api-reference/class/
-dotnet_release_notes: /programming/dotnet/release-notes/
+dotnet: /DBRDoc/programming/dotnet/
+dotnet_api: /DBRDoc/programming/dotnet/api-reference/
+dotnet_methods: /DBRDoc/programming/dotnet/api-reference/BarcodeReader/
+dotnet_class: /DBRDoc/programming/dotnet/api-reference/class/
+dotnet_release_notes: /DBRDoc/programming/dotnet/release-notes/
 
-oc: /programming/objectivec-swift/
-oc_api: /programming/objectivec-swift/api-reference/
-oc_release_notes: /programming/objectivec-swift/release-notes/
-oc_methods: /programming/objectivec-swift/api-reference/methods/
-oc_class: /programming/objectivec-swift/api-reference/class/
-oc_methods: /programming/objectivec-swift/api-reference/methods/
+oc: /DBRDoc/programming/objectivec-swift/
+oc_api: /DBRDoc/programming/objectivec-swift/api-reference/
+oc_release_notes: /DBRDoc/programming/objectivec-swift/release-notes/
+oc_methods: /DBRDoc/programming/objectivec-swift/api-reference/methods/
+oc_class: /DBRDoc/programming/objectivec-swift/api-reference/class/
+oc_methods: /DBRDoc/programming/objectivec-swift/api-reference/methods/
 
-java: /programming/java/
-java_api: /programming/java/api-reference/
-java_methods: /programming/java/api-reference/BarcodeReader/
-java_class: /programming/java/api-reference/class/
-java_release_notes: /programming/java/release-notes/
+java: /DBRDoc/programming/java/
+java_api: /DBRDoc/programming/java/api-reference/
+java_methods: /DBRDoc/programming/java/api-reference/BarcodeReader/
+java_class: /DBRDoc/programming/java/api-reference/class/
+java_release_notes: /DBRDoc/programming/java/release-notes/
 
-android: /programming/android/
-android_api: /programming/android/api-reference/
-android_release_notes: /programming/android/release-notes/
-android_class: /programming/android/api-reference/class/
-android_methods: /programming/android/api-reference/BarcodeReader/
+android: /DBRDoc/programming/android/
+android_api: /DBRDoc/programming/android/api-reference/
+android_release_notes: /DBRDoc/programming/android/release-notes/
+android_class: /DBRDoc/programming/android/api-reference/class/
+android_methods: /DBRDoc/programming/android/api-reference/BarcodeReader/
   
-python: /programming/python/
-python_api: /programming/python/api-reference/
-python_methods: /programming/python/api-reference/BarcodeReader/
-python_class: /programming/python/api-reference/class/
-python_release_notes: /programming/python/release-notes/
+python: /DBRDoc/programming/python/
+python_api: /DBRDoc/programming/python/api-reference/
+python_methods: /DBRDoc/programming/python/api-reference/BarcodeReader/
+python_class: /DBRDoc/programming/python/api-reference/class/
+python_release_notes: /DBRDoc/programming/python/release-notes/
 
-parameters_reference: /parameters/reference/
-image_parameters: /parameters/reference/image-parameter/
-scenario_settings: /parameters/scenario-settings/
-enumerations: /parameters/enum/
+parameters_reference: /DBRDoc/parameters/reference/
+image_parameters: /DBRDoc/parameters/reference/image-parameter/
+scenario_settings: /DBRDoc/parameters/scenario-settings/
+enumerations: /DBRDoc/parameters/enum/
 
-faqs: /introduction/faqs.html
-how_to: /introduction/how-to-guide/
+faqs: /DBRDoc/introduction/faqs.html
+how_to: /DBRDoc/introduction/how-to-guide/
 
-assets: /assets/
-edit_icon: /assets/img-icon/edit-icon.png
-smile_icon: /assets/img-icon/icon-smile.png
-sad_icon: /assets/img-icon/icon-sad.png
-dbr_icon: /assets/img-icon/icon-dbr.svg
-dwt_icon: /assets/img-icon/icon-dwt.svg
-dnt_icon: /assets/img-icon/icon-dnt.svg
+assets: /DBRDoc/assets/
+edit_icon: /DBRDoc/assets/img-icon/edit-icon.png
+smile_icon: /DBRDoc/assets/img-icon/icon-smile.png
+sad_icon: /DBRDoc/assets/img-icon/icon-sad.png
+dbr_icon: /DBRDoc/assets/img-icon/icon-dbr.svg
+dwt_icon: /DBRDoc/assets/img-icon/icon-dwt.svg
+dnt_icon: /DBRDoc/assets/img-icon/icon-dnt.svg
 
 camera: /camera-enhancer/docs/introduction/
 
